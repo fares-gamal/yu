@@ -18,8 +18,8 @@ useEffect(() => {
 
   return (
 
-    <div>
-      <Link href={"/login"} > login</Link>
+    <div
+     className="w-full h-screen flex flex-col justify-center items-center  bg-[url('/logo.jpg')] bg-cover bg-center">
     </div>
 
   )
