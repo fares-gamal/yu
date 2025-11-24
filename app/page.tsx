@@ -1,3 +1,4 @@
+
 'use client'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
@@ -20,6 +21,7 @@ useEffect(() => {
 
     <div
      className="w-full h-screen flex flex-col justify-center items-center  bg-[url('/logo.jpg')] bg-cover bg-center">
+    
     </div>
 
   )
